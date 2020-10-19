@@ -28,9 +28,9 @@ powershell.exe -ExecutionPolicy Bypass -File .\ChocoInstall.ps1
 
 ### SCRIPT OPTIONS
 
--setproxy : Set a proxy if you use one
--noinstall : Bypass the chocolatey install phase if already installed
--gamesinstall : Install game launchers such as Steam or GOG and Discord. 
--networktoolsinstall : Install nmap and wireshark
--linuxinstall : Install Wsl2 + wsl-ubtunu + Docker-Desktop
+-setproxy : Set a proxy if you use one<br>
+-noinstall : Bypass the chocolatey install phase if already installed<br>
+-gamesinstall : Install game launchers such as Steam or GOG and Discord. <br>
+-networktoolsinstall : Install nmap and wireshark<br>
+-linuxinstall : Install Wsl2 + wsl-ubtunu + Docker-Desktop<br>
 
